@@ -40,3 +40,17 @@ border-radius: 50%;
     bottom: 5%;
     left: 10%;
 }
+
+.userimg{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.linksimg {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.procard{
+    width: 30px;
+}
