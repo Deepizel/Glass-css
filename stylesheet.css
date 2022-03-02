@@ -7,4 +7,15 @@
 main{
     min-height: 100vh;
     background: #F81E86;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.glass{
+    background: white;
+    opacity: 0.4;
+    min-height: 80vh;
+    width: 60%;
+    border-radius: 20px;
 }
